@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1053296749186",
+    "firebase_url": "https://dari-a97c4.firebaseio.com",
+    "project_id": "dari-a97c4",
+    "storage_bucket": "dari-a97c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053296749186:android:897facbb9adcb58a",
+        "android_client_info": {
+          "package_name": "com.bel.dari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053296749186-l29tn89vugg13ijk78fp5fpto34ob21p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bel.dari",
+            "certificate_hash": "5ff2c9e4aa4339af8f45aad5e6365e724f24d06f"
+          }
+        },
+        {
+          "client_id": "1053296749186-9kgf271jdteg2d8tcs96m9c90ue9tj07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlX-Y_59k1u6VN6HWm-uikJAAwzd8SMQU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053296749186-9kgf271jdteg2d8tcs96m9c90ue9tj07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

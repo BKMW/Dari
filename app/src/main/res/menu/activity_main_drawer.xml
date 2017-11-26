@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_action_aceuil"
+            android:title="الرئيسية" />
+        <item
+            android:id="@+id/nav_divers"
+            android:icon="@drawable/ic_action_astuce"
+            android:title="منوعات" />
+        <item
+            android:id="@+id/nav_swites"
+            android:icon="@drawable/ic_action_sweet"
+            android:title="حلويات" />
+        <item
+            android:id="@+id/nav_kitchen"
+            android:icon="@drawable/ic_action_cuisine"
+            android:title="مطبخك" />
+        <item
+            android:id="@+id/nav_health"
+            android:icon="@drawable/ic_action_sante"
+            android:title="صحتك" />
+        <item
+            android:id="@+id/nav_beaty"
+            android:icon="@drawable/ic_action_beaute"
+            android:title="جمالك" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+        </menu>
+    </item>
+
+</menu>
